@@ -10,7 +10,7 @@
   "devDependencies": {},
   "scripts": {
     "start": "node migrate-data-async.js 100",
-    "test": "node migrate-data-async.js 100"
+    "test": "node migrate-data-test.js 100"
   },
   "keywords": [],
   "author": "",
